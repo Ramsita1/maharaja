@@ -1,0 +1,472 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"table",
+				"table-border-style"
+			],
+			[
+				"stor",
+				"store_title"
+			],
+			[
+				"Store",
+				"Stores"
+			],
+			[
+				"Stor",
+				"Stores"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"store",
+				"store_name"
+			],
+			[
+				"store_",
+				"store_title"
+			],
+			[
+				"option",
+				"optionHtml"
+			],
+			[
+				"tab",
+				"tabKey"
+			],
+			[
+				"curre",
+				"currentUrl"
+			],
+			[
+				"each",
+				"each\t$.each()"
+			],
+			[
+				"le",
+				"length\t: unsigned long Storage"
+			],
+			[
+				"strt",
+				"strtotime"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"glo",
+				"global"
+			],
+			[
+				"th",
+				"thead\tTag"
+			],
+			[
+				"inclu",
+				"include_once"
+			],
+			[
+				"admi",
+				"admission_stage_3"
+			],
+			[
+				"adm",
+				"admission_stage_3"
+			],
+			[
+				"sub",
+				"subUser"
+			],
+			[
+				"get_user",
+				"get_user_meta"
+			],
+			[
+				"aget",
+				"agents"
+			],
+			[
+				"query",
+				"queryData"
+			],
+			[
+				"post_auth",
+				"post_author_id"
+			],
+			[
+				"post",
+				"post_id"
+			],
+			[
+				"term",
+				"term_id"
+			],
+			[
+				"file",
+				"file_name"
+			],
+			[
+				"spon",
+				"Sponsor"
+			],
+			[
+				"spo",
+				"sponserid"
+			],
+			[
+				"is_nu",
+				"is_numeric"
+			],
+			[
+				"acces",
+				"accessToken"
+			],
+			[
+				"goo",
+				"google_oauthV2"
+			],
+			[
+				"add",
+				"addClass\t.addClass()"
+			],
+			[
+				"this",
+				"this\t$(this)"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"insert",
+				"insertData"
+			],
+			[
+				"secre",
+				"SECRET"
+			],
+			[
+				"content",
+				"file_get_contents"
+			],
+			[
+				"reve",
+				"Revel"
+			],
+			[
+				"print",
+				"print_r"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/xampp/htdocs/pza/resources/views/Admin/Store/StoreTableBookingTimings.blade.php",
+		"/D/xampp/htdocs/pza/resources/views/Admin/Store/StoreOnlineOrderTimings.blade.php",
+		"/D/xampp/htdocs/pza/resources/views/Include/Header.blade.php",
+		"/D/xampp/htdocs/pza/resources/views/Include/Footer.blade.php",
+		"/D/xampp/htdocs/pza/public/admin/js/jquery.comiseo.daterangepicker.js",
+		"/D/xampp/htdocs/pza/public/admin/js/script.js",
+		"/C/Users/lenovo/Desktop/jquery-ui-daterangepicker-0.6.0-beta.1/jquery.comiseo.daterangepicker.css",
+		"/C/Users/lenovo/Desktop/jquery-ui-daterangepicker-0.6.0-beta.1/bower.json",
+		"/D/xampp/htdocs/pza/resources/views/Admin/Store/CreateEdit.blade.php",
+		"/D/xampp/htdocs/pza/resources/views/Admin/Store/StoreInfo.blade.php",
+		"/D/xampp/htdocs/pza/resources/views/Admin/Store/StoreEmployee.blade.php",
+		"/D/xampp/htdocs/pza/app/Http/Controllers/Admin/Store/StoreController.php",
+		"/D/xampp/htdocs/pza/resources/views/Admin/Store/Index.blade.php",
+		"/D/xampp/htdocs/pza/resources/views/Admin/Store/StoreDeliveryLocationPrice.blade.php",
+		"/D/xampp/htdocs/pza/resources/views/Admin/Post/Edit.blade.php",
+		"/D/xampp/htdocs/pza/resources/views/Admin/Post/Index.blade.php",
+		"/D/xampp/htdocs/pza/app/Stores.php",
+		"/D/xampp/htdocs/pza/app/Http/Controllers/Admin/Post/PostController.php",
+		"/D/xampp/htdocs/pza/database/migrations/2020_03_17_162446_create_stores_table.php",
+		"/D/xampp/htdocs/pza/app/Http/Controllers/Admin/Users/UsersController.php",
+		"/D/xampp/htdocs/pza/app/Http/Controllers/Admin/Post/TaxonomyController.php",
+		"/D/xampp/htdocs/pza/resources/views/Admin/Post/Create.blade.php",
+		"/D/xampp/htdocs/pza/routes/api.php",
+		"/D/xampp/htdocs/vsure/routes/web.php",
+		"/D/xampp/htdocs/vsure/resources/views/Includes/adminFooter.blade.php",
+		"/D/xampp/htdocs/vsure/resources/views/Includes/footer.blade.php",
+		"/D/xampp/htdocs/vsure/public/admin/js/admin-script-form.js",
+		"/D/xampp/htdocs/vsure/public/admin/js/admin-script.js",
+		"/D/xampp/htdocs/vsure/public/js/custom.js",
+		"/D/xampp/htdocs/pza/resources/views/Admin/Store/Create.blade.php",
+		"/D/xampp/htdocs/pza/public/admin/css/admin.css",
+		"/D/xampp/htdocs/pza/public/admin/css/style.css",
+		"/D/xampp/htdocs/pza/database/migrations/2020_03_17_163441_create_stores_delivery_location_price_table.php",
+		"/D/xampp/htdocs/pza/database/migrations/2020_03_17_163300_create_stores_table_booking_timings_table.php",
+		"/D/xampp/htdocs/pza/database/migrations/2020_03_17_163207_create_stores_online_order_timings_table.php",
+		"/D/xampp/htdocs/pza/database/migrations/2019_11_07_103728_create_posts_table.php",
+		"/C/Users/lenovo/Desktop/functions.php",
+		"/D/xampp/htdocs/PZA_08-03-2020/PZA/resources/views/store/add.blade.php",
+		"/D/xampp/htdocs/pza/app/Classes/Helper.php",
+		"/D/xampp/htdocs/PZA_08-03-2020/PZA/app/Store.php",
+		"/D/xampp/htdocs/PZA_08-03-2020/PZA/routes/web.php",
+		"/D/xampp/htdocs/PZA_08-03-2020/PZA/app/Http/Controllers/StoreController.php",
+		"/C/Users/lenovo/Desktop/class-activity-tracker.php",
+		"/D/xampp/htdocs/pza/resources/views/Admin/Users/Index.blade.php",
+		"/D/xampp/htdocs/pza/routes/web.php",
+		"/D/xampp/htdocs/pza/.env",
+		"/D/xampp/htdocs/pza/app/Classes/ThemeOptionHelper.php",
+		"/D/xampp/htdocs/pza/database/migrations/2019_12_19_000000_create_users_column_table.php",
+		"/D/xampp/htdocs/pza/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/D/xampp/htdocs/pza/database/migrations/2019_12_16_085337_create_telr_transactions_table.php",
+		"/D/xampp/htdocs/pza/database/migrations/2019_12_09_103728_create_posts_table.php",
+		"/D/xampp/htdocs/PZA_08-03-2020/PZA/.env",
+		"/C/Users/lenovo/Desktop/proposal",
+		"/D/xampp/htdocs/PZA/.env",
+		"/D/xampp/htdocs/PZA/.env.example",
+		"/C/Users/lenovo/AppData/Local/Temp/scp45597/wp-content/themes/businesslounge-child/functions.php",
+		"/D/xampp/htdocs/ultimateloanmanager/.env",
+		"/D/xampp/htdocs/loan-manager/codecanyon-19891884-ultimate-loan-manager/ultimateloanmanager.sql",
+		"/D/xampp/htdocs/ultimateloanmanager/public/.htaccess",
+		"/D/xampp/htdocs/ultimateloanmanager/.htaccess",
+		"/D/xampp/htdocs/ultimateloanmanager/index.php",
+		"/C/Users/lenovo/AppData/Local/Temp/scp24661/wp-content/themes/businesslounge-child/functions.php",
+		"/C/Users/lenovo/AppData/Local/Temp/scp34372/application/controllers/ChildControllers/MediaController.php",
+		"/C/Users/lenovo/AppData/Local/Temp/scp38712/application/config/routes.php",
+		"/C/Users/lenovo/AppData/Local/Temp/scp33617/application/config/my_routes.php",
+		"/C/Users/lenovo/Desktop/config/routes.php",
+		"/D/xampp/htdocs/login/application/config/routes.php",
+		"/C/Users/lenovo/AppData/Local/Temp/scp48896/application/controllers/admin/Credit_notes.php",
+		"/C/Users/lenovo/AppData/Local/Temp/scp50963/modules/appointly/controllers/Appointments_public.php",
+		"/C/Users/lenovo/AppData/Local/Temp/scp50351/modules/appointly/controllers/Appointments.php",
+		"/C/Users/lenovo/AppData/Local/Temp/scp49993/modules/prchat/controllers/Prchat_Controller.php",
+		"/C/Users/lenovo/AppData/Local/Temp/scp46522/application/controllers/ChildControllers/ProposalChildController.php",
+		"/C/Users/lenovo/AppData/Local/Temp/scp46128/application/controllers/ChildControllers/MediaController.php",
+		"/C/Users/lenovo/AppData/Local/Temp/scp46001/application/controllers/ChildControllers/EstimateChildController.php",
+		"/C/Users/lenovo/AppData/Local/Temp/scp41716/application/controllers/ChildControllers/ContractChildController.php",
+		"/C/Users/lenovo/AppData/Local/Temp/scp50991/application/config/my_routes.php",
+		"/C/Users/lenovo/AppData/Local/Temp/scp52687/application/controllers/ChildControllers/MediaController.php",
+		"/C/Users/lenovo/AppData/Local/Temp/fz3temp-2/HomeController.php",
+		"/C/Users/lenovo/AppData/Local/Temp/fz3temp-2/web.php",
+		"/D/xampp/htdocs/vsure/.env",
+		"/C/Users/lenovo/Desktop/ChildControllers/.htaccess",
+		"/C/Users/lenovo/AppData/Local/Temp/fz3temp-2/Home.blade.php",
+		"/C/Users/lenovo/AppData/Local/Temp/fz3temp-2/config.php",
+		"/C/Users/lenovo/AppData/Local/Temp/scp37653/application/controllers/Proposal.php",
+		"/C/Users/lenovo/AppData/Local/Temp/scp05519/application/controllers/ChildControllers/MediaController.php",
+		"/C/Users/lenovo/AppData/Local/Temp/scp57379/application/controllers/ChildControllers/ProposalChildController.php",
+		"/C/Users/lenovo/AppData/Local/Temp/scp00884/application/controllers/ChildControllers/EstimateChildController.php",
+		"/C/Users/lenovo/AppData/Local/Temp/scp27996/modules/prchat/uploads/files.php",
+		"/C/Users/lenovo/AppData/Local/Temp/scp25448/modules/prchat/controllers/Uploads.php",
+		"/C/Users/lenovo/AppData/Local/Temp/scp23033/modules/prchat/prchat.php",
+		"/C/Users/lenovo/AppData/Local/Temp/scp20396/modules/appointly/controllers/Appointments_public.php",
+		"/C/Users/lenovo/AppData/Local/Temp/scp50060/application/config/routes.php",
+		"/C/Users/lenovo/AppData/Local/Temp/scp52454/application/config/my_routes.php",
+		"/C/Users/lenovo/AppData/Local/Temp/scp25815/modules/prchat/helpers/prchat_helper.php",
+		"/C/Users/lenovo/AppData/Local/Temp/scp23736/modules/prchat/index.php",
+		"/C/Users/lenovo/AppData/Local/Temp/scp22641/modules/prchat/install.php",
+		"/C/Users/lenovo/Desktop/.htaccess",
+		"/C/Users/lenovo/AppData/Local/Temp/scp03692/application/controllers/admin/Mods.php",
+		"/C/Users/lenovo/AppData/Local/Temp/scp54732/application/controllers/ContractChildController.php",
+		"/C/Users/lenovo/AppData/Local/Temp/scp33777/application/controllers/Authentication.php",
+		"/C/Users/lenovo/AppData/Local/Temp/scp53072/application/controllers/MediaController.php",
+		"/C/Users/lenovo/AppData/Local/Temp/scp48415/application/controllers/contractChildController.php",
+		"/C/Users/lenovo/AppData/Local/Temp/scp53476/application/controllers/contractChild.php",
+		"/C/Users/lenovo/AppData/Local/Temp/scp44430/application/controllers/Contract.php",
+		"/C/Users/lenovo/AppData/Local/Temp/scp37950/application/controllers/Subscription.php",
+		"/D/xampp/htdocs/login/.htaccess",
+		"/D/xampp/htdocs/freedom/application/views/register.php",
+		"/D/xampp/htdocs/freedom/application/views/registermobile.php",
+		"/D/xampp/htdocs/freedom/application/controllers/Account.php",
+		"/D/xampp/htdocs/freedom/application/models/Admin.php",
+		"/D/xampp/htdocs/freedom/application/models/admin/Admin.php",
+		"/D/xampp/htdocs/freedom/application/config/config.php",
+		"/D/xampp/htdocs/freedom/application/config/database.php",
+		"/D/xampp/htdocs/freedom/application/views/template/header.php",
+		"/D/xampp/htdocs/freedom/htaccess",
+		"/D/xampp/htdocs/freedom/.htaccess",
+		"/D/xampp/htdocs/freedom/application/views/include/template.php",
+		"/D/xampp/htdocs/freedom/application/views/index.php",
+		"/D/xampp/htdocs/vsure/composer.json",
+		"/D/xampp/htdocs/vsure/resources/views/EmailTemplate/NewServiceRequestMail.blade.php",
+		"/D/xampp/htdocs/vsure/app/Http/Controllers/Contact/ContactController.php",
+		"/C/Users/lenovo/AppData/Local/Temp/scp50819/includes/application_top.php",
+		"/C/Users/lenovo/AppData/Local/Temp/scp17676/includes/content/admin_service_stats.php",
+		"/C/Users/lenovo/AppData/Local/Temp/scp46055/index.php",
+		"/C/Users/lenovo/Desktop/ryan/includes/includes/application_top.php-15july",
+		"/C/Users/lenovo/Desktop/RewriteEngine On",
+		"/C/Users/lenovo/AppData/Local/Temp/scp10654/wp-content/themes/worldnews-child/functions.php",
+		"/C/Users/lenovo/Desktop/ryan/includes/includes/content/admin_users.php"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
